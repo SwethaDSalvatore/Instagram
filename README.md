@@ -4,15 +4,13 @@ Instagram clone was structured and designed using Tailwind CSS with CLI method. 
 To view the project, you should visit the provided link.
 
 ---
-✨**Source Link is Here**: 
-https://github.com/SwethaDSalvatore/Instagram-UI-Tailwind.CLI.git
-
-| 🚀 Index | 🎆 Description |
+**Link is Here**: 
+|✨Index | 🎆 Description |
 |--|--|
 | **License** |MIT  |
 | **Stacks** |HTML & TailwindCSS  |
 | **Author** |Swetha |
-| **Live Link** | [Click Here](https://swethadsalvatore.github.io/Instagram-UI-Tailwind.CLI/)|
+| **Live Link** | [Click Here](https://swethadsalvatore.github.io/Instagram/)|
 | **Mobile Responsive** | Yes |
 
 # Understanding Tailwind CSS:
